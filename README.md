@@ -2,7 +2,7 @@ Setting up the chatbot
 
 
 HELLO CHECKING THE PR 
-2ND CHECKBJHHJCDVDfvfvfvfv
+2ND CHECKBJHHJCDVDfvfvfvfvvfbf
 
 ```sh
 pip install -r requirements.txt
