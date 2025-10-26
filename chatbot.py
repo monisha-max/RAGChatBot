@@ -122,5 +122,4 @@ if user_query:
             st.subheader("Sources")
             st.write(result_sources.replace("\n", ", "))
     else:
-        status_container.error("FAISS index not found. Please process the URLs first.") this is the code now give Documentation explaining the model architecture, approach to retrieval, and how
-generative responses are created.
+        status_container.error("FAISS index not found. Please process the URLs first.") 
